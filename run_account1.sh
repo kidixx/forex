@@ -13,4 +13,4 @@ export MT5_SERVER=Exness-MT5Trial9
 export MT5_PATH="C:\\MT5-Account1\\terminal64.exe"
 export MAGIC_NUMBER=234001
 
-python main.py
+python backtester.py
