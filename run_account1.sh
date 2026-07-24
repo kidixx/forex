@@ -7,9 +7,9 @@
 # ============================================================
 
 export ACCOUNT_LABEL=account1
-export MT5_LOGIN=11111111
-export MT5_PASSWORD=your_account1_password
-export MT5_SERVER=Exness-MT5Trial
+export MT5_LOGIN=436946051
+export MT5_PASSWORD=31,imo,piP
+export MT5_SERVER=Exness-MT5Trial9
 export MT5_PATH="C:\\MT5-Account1\\terminal64.exe"
 export MAGIC_NUMBER=234001
 
